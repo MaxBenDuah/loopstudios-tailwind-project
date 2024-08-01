@@ -1,19 +1,37 @@
-# Loopstudios Website
+# Shortly
 
-Loopstudios landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
+Loopstudios landing page using Tailwind and from Frontend Mentor Challenge.
 
-## Usage
+## Screenshots
+
+![App Screenshot](https://github.com/MaxBenDuah/miscellaneous-resources/blob/main/screenshot-loopstudios.png?raw=true)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/MaxBenDuah/loopstudios-tailwind-project.git
+```
+
+Go to the project directory
+
+```bash
+  cd loopstudios-tailwind-project
+```
 
 Install dependencies
 
-```
-npm Install
-```
-
-Run Tailwind CLI
-
-```
-npm run watch
+```bash
+  npm install
 ```
 
-![Alt text](images/loopstudios.png)
+Start the server
+
+```bash
+  npm run watch
+```
+
+## Demo
+
+https://loopstudios-mbd.netlify.app/
